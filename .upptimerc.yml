@@ -14,13 +14,13 @@ sites:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  #  the `baseUrline if you don't have a custom domain and add your repo name there
+  #  the baseUrl line if you don't have a custom domain and add your repo name there
   cname: status.ano404.top
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: RSOS服务集群状态监控
-  introMessage: 此页面负责展示系统运行状况，感谢您使用RSOS！镜像站点[lo](https://lo.ano404.top)。
+  introMessage: 此页面负责展示系统运行状况，感谢您使用RSOS！镜像站点 [lo](https://lo.ano404.top) 。
   navbar:
     - title: Status
       href: /
