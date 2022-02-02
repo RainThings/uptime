@@ -26,7 +26,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  i18n:
+i18n:
   url: URL
   status: 状态
   history: 历史
