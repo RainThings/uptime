@@ -4,13 +4,13 @@ repo: uptime # The name of this repository
 
 sites:
   - name: RSOS服务控制面板
-    url: https://cdnus.ano404.top
+    url: https://$US_SITE
   - name: HK区服
-    url: https://hk.ano404.top:2087
+    url: https://$HK_SERVER
   - name: US区服
-    url: https://cdnus.ano404.top:2087
+    url: https://$US_SERVER
   - name: RU区服
-    url: https://link.ano404.top:2087
+    url: https://$RU_SERVER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
