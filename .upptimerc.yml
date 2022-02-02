@@ -14,13 +14,13 @@ sites:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  #  the `baseUrl` line if you don't have a custom domain and add your repo name there
+  #  the `baseUrline if you don't have a custom domain and add your repo name there
   cname: status.ano404.top
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: RSOS服务集群状态监控
-  introMessage: 此页面负责展示系统运行状况，感谢您使用RSOS！
+  introMessage: 此页面负责展示系统运行状况，感谢您使用RSOS！镜像站点[lo](https://lo.ano404.top)。
   navbar:
     - title: Status
       href: /
@@ -74,7 +74,7 @@ i18n:
   responseTimeMs: 响应时间 (毫秒)
   loading: 加载中
   navGitHub: GitHub
-  footer: Powered by [Upptime](https://upptime.js.org)
+  footer: Powered by [Upptime](https://upptime.js.org) and RainThings
   rateLimitExceededTitle: 频率受限
   rateLimitExceededIntro: 您已达到请求数上限，因此您可能需要尝试在一个小时后再次访问。或者，您可以添加 GitHub 个人访问令牌以继续使用此网站。
   rateLimitExceededWhatDoesErrorMean: 这个报错意味着什么？
