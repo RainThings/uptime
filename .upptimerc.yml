@@ -3,7 +3,7 @@ owner: RainThings # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
-  - name: 服务控制面板
+  - name: RSOS服务控制面板
     url: https://cdnus.ano404.top
   - name: HK区服
     url: https://hk.ano404.top:2087
