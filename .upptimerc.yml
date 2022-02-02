@@ -6,11 +6,11 @@ sites:
   - name: 服务控制面板
     url: https://cdnus.ano404.top
   - name: HK区服
-    url: https://hk.ano404.top
+    url: https://hk.ano404.top:2087
   - name: US区服
-    url: https://cdnus.ano404.top
+    url: https://cdnus.ano404.top:2087
   - name: RU区服
-    url: https://link.ano404.top
+    url: https://link.ano404.top:2087
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
