@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "rsos",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 536,
-    "timeDay": 486,
-    "timeWeek": 566,
-    "timeMonth": 557,
-    "timeYear": 536,
-    "dailyMinutesDown": {
-      "2022-03-03": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 542,
+    "timeDay": 720,
+    "timeWeek": 590,
+    "timeMonth": 559,
+    "timeYear": 542,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HK区服",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1619,
-    "timeDay": 1342,
-    "timeWeek": 1699,
-    "timeMonth": 1659,
-    "timeYear": 1619,
+    "time": 1622,
+    "timeDay": 1766,
+    "timeWeek": 1703,
+    "timeMonth": 1669,
+    "timeYear": 1622,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 465,
-    "timeDay": 375,
-    "timeWeek": 506,
-    "timeMonth": 502,
-    "timeYear": 465,
+    "time": 468,
+    "timeDay": 538,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2022-03-03": 18
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1774,
-    "timeDay": 2039,
-    "timeWeek": 1788,
-    "timeMonth": 1756,
-    "timeYear": 1774,
+    "time": 1772,
+    "timeDay": 1655,
+    "timeWeek": 1791,
+    "timeMonth": 1762,
+    "timeYear": 1772,
     "dailyMinutesDown": {}
   }
 ]
