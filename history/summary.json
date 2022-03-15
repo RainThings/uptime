@@ -22,9 +22,9 @@
     "url": "https://$HK_SERVER",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "hk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1751,
     "timeMonth": 1679,
     "timeYear": 1632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "US区服",
