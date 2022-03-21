@@ -4,19 +4,19 @@
     "url": "https://$US_SITE",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "rsos",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "85.65%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.70%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.64%",
     "time": 543,
-    "timeDay": 709,
-    "timeWeek": 572,
-    "timeMonth": 559,
+    "timeDay": 645,
+    "timeWeek": 574,
+    "timeMonth": 560,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2022-03-21": 207
+      "2022-03-21": 246
     }
   },
   {
