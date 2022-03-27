@@ -17,7 +17,7 @@ status-website:
   #  the baseUrl line if you don't have a custom domain and add your repo name there
   cname: status.ano404.top
   # baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/RainThings/uptime/icon.svg
   name: Upptime
   introTitle: RSOS服务集群状态监控
   introMessage: 此页面负责展示系统运行状况，感谢您使用RSOS，本站还另外提供更新较慢的 [镜像站点](https://ol.ano404.top) 。
@@ -25,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://cdn.jsdelivr.net/gh/$OWNER/$REPO
 i18n:
   url: URL
   status: 状态
