@@ -25,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://cdn.jsdelivr.net/gh/$OWNER/$REPO
+      href: https://GitHub.com/$OWNER/$REPO
 i18n:
   url: URL
   status: 状态
