@@ -4,9 +4,9 @@
     "url": "https://$US_SITE",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "rsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 533,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2022-04-25": 0,
       "2022-03-21": 246
     }
   },
