@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 531,
-    "timeDay": 623,
-    "timeWeek": 473,
+    "time": 532,
+    "timeDay": 586,
+    "timeWeek": 475,
     "timeMonth": 515,
-    "timeYear": 531,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2022-03-21": 246
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "hk",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
-    "time": 1616,
-    "timeDay": 1788,
-    "timeWeek": 1535,
-    "timeMonth": 1597,
-    "timeYear": 1616,
+    "uptimeYear": "99.66%",
+    "time": 1627,
+    "timeDay": 2989,
+    "timeWeek": 1689,
+    "timeMonth": 1638,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2022-03-27": 487,
       "2022-03-21": 15,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 447,
-    "timeDay": 633,
-    "timeWeek": 368,
-    "timeMonth": 435,
-    "timeYear": 447,
+    "time": 449,
+    "timeDay": 625,
+    "timeWeek": 366,
+    "timeMonth": 436,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2022-03-03": 18
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1822,
-    "timeDay": 1995,
-    "timeWeek": 1838,
-    "timeMonth": 1859,
-    "timeYear": 1822,
+    "time": 1823,
+    "timeDay": 1976,
+    "timeWeek": 1839,
+    "timeMonth": 1868,
+    "timeYear": 1823,
     "dailyMinutesDown": {
       "2022-03-22": 49
     }
