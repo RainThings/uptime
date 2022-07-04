@@ -25,7 +25,7 @@
     "url": "https://$HK_SERVER",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "hk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "94.56%",
     "uptimeWeek": "99.06%",
