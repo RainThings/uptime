@@ -8,7 +8,7 @@
     "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.70%",
+    "uptimeMonth": "69.77%",
     "uptimeYear": "93.21%",
     "time": 534,
     "timeDay": 596,
@@ -41,15 +41,15 @@
     "url": "https://$HK_SERVER",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "hk",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "68.90%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "71.01%",
     "uptimeWeek": "70.49%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "90.73%",
+    "uptimeYear": "98.75%",
     "time": 1968,
     "timeDay": 1705,
-    "timeWeek": 1830,
+    "timeWeek": 1833,
     "timeMonth": 2018,
     "timeYear": 1968,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
       "2022-09-09": 182,
       "2022-09-08": 423,
       "2022-09-07": 578,
-      "2022-09-06": 109
+      "2022-09-06": 50
     }
   },
   {
@@ -75,7 +75,7 @@
     "uptime": "89.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.23%",
+    "uptimeMonth": "41.30%",
     "uptimeYear": "89.46%",
     "time": 439,
     "timeDay": 874,
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2022-09-16": 521,
+      "2022-09-16": 552,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
