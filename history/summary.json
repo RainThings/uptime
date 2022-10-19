@@ -51,11 +51,11 @@
     "url": "https://$HK_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "73.62%",
-    "uptimeWeek": "67.69%",
-    "uptimeMonth": "87.93%",
+    "uptimeDay": "73.61%",
+    "uptimeWeek": "67.68%",
+    "uptimeMonth": "87.99%",
     "uptimeYear": "98.59%",
     "time": 1974,
     "timeDay": 3246,
@@ -74,7 +74,7 @@
       "2022-10-11": 595,
       "2022-10-10": 585,
       "2022-10-09": 430,
-      "2022-10-08": 40
+      "2022-10-08": 16
     }
   },
   {
@@ -139,7 +139,7 @@
     "uptime": "77.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.80%",
+    "uptimeMonth": "39.85%",
     "uptimeYear": "77.35%",
     "time": 1833,
     "timeDay": 1927,
