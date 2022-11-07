@@ -1,7 +1,7 @@
 url: https://$HK_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-07T07:07:08.062Z
+status: up
+code: 200
+responseTime: 5413
+lastUpdated: 2022-11-07T07:41:50.451Z
 startTime: Wed Feb 02 2022 01:13:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
