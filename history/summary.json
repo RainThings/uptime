@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "rsos",
     "status": "up",
-    "uptime": "86.79%",
+    "uptime": "86.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.13%",
+    "uptimeYear": "80.41%",
     "time": 588,
-    "timeDay": 671,
-    "timeWeek": 621,
-    "timeMonth": 622,
+    "timeDay": 655,
+    "timeWeek": 619,
+    "timeMonth": 625,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2023-04-19": 824,
@@ -91,8 +91,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   },
   {
@@ -101,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "54.03%",
+    "uptime": "54.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.06%",
-    "uptimeMonth": "61.10%",
+    "uptimeMonth": "64.39%",
     "uptimeYear": "30.10%",
     "time": 2010,
-    "timeDay": 1740,
-    "timeWeek": 1665,
-    "timeMonth": 1562,
-    "timeYear": 1997,
+    "timeDay": 1629,
+    "timeWeek": 1663,
+    "timeMonth": 1565,
+    "timeYear": 1996,
     "dailyMinutesDown": {
       "2023-08-08": 196,
       "2023-08-01": 58,
@@ -385,12 +384,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "us",
     "status": "down",
-    "uptime": "59.24%",
+    "uptime": "59.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "38.20%",
-    "time": 569,
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "38.47%",
+    "time": 570,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 656,
@@ -626,8 +625,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   },
   {
@@ -636,12 +634,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "64.39%",
+    "uptime": "64.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.23%",
-    "uptimeYear": "46.02%",
-    "time": 1977,
+    "uptimeMonth": "51.51%",
+    "uptimeYear": "46.30%",
+    "time": 1978,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1909,
@@ -845,8 +843,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   }
 ]
