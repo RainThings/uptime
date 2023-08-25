@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "rsos",
     "status": "up",
-    "uptime": "87.09%",
+    "uptime": "87.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.69%",
+    "uptimeYear": "83.97%",
     "time": 593,
-    "timeDay": 530,
-    "timeWeek": 746,
+    "timeDay": 635,
+    "timeWeek": 695,
     "timeMonth": 658,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -78,8 +78,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1134,
-      "2022-08-25": 834
+      "2022-10-02": 1134
     }
   },
   {
@@ -88,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "55.08%",
+    "uptime": "55.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "30.10%",
     "time": 2010,
-    "timeDay": 1473,
-    "timeWeek": 1641,
-    "timeMonth": 1591,
+    "timeDay": 1691,
+    "timeWeek": 1644,
+    "timeMonth": 1590,
     "timeYear": 1992,
     "dailyMinutesDown": {
       "2023-08-08": 196,
@@ -372,12 +371,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "us",
     "status": "down",
-    "uptime": "60.17%",
+    "uptime": "60.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.76%",
-    "time": 580,
+    "uptimeYear": "42.03%",
+    "time": 582,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -600,8 +599,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   },
   {
@@ -610,12 +608,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "65.20%",
+    "uptime": "65.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.36%",
-    "uptimeYear": "49.58%",
-    "time": 1982,
+    "uptimeMonth": "81.65%",
+    "uptimeYear": "49.86%",
+    "time": 1983,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -806,8 +804,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   }
 ]
