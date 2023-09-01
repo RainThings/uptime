@@ -4,9 +4,9 @@
     "url": "https://$US_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "rsos",
-    "status": "up",
+    "status": "down",
     "uptime": "87.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.12%",
@@ -16,6 +16,7 @@
     "timeMonth": 637,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2023-04-19": 824,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -86,9 +87,9 @@
     "url": "https://$HK_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
-    "status": "up",
-    "uptime": "55.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "55.71%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "30.10%",
@@ -98,6 +99,7 @@
     "timeMonth": 1573,
     "timeYear": 1939,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2023-08-08": 196,
       "2023-08-01": 58,
       "2023-07-22": 1072,
@@ -362,7 +364,7 @@
       "2022-11-04": 434,
       "2022-11-03": 658,
       "2022-11-02": 727,
-      "2022-11-01": 144
+      "2022-11-01": 111
     }
   },
   {
