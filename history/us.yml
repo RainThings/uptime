@@ -1,7 +1,7 @@
-url: https://$US_SERVER
+url: http://$US_SERVER
 status: down
-code: 502
-responseTime: 84
-lastUpdated: 2024-04-30T15:10:55.933Z
+code: 400
+responseTime: 12
+lastUpdated: 2024-04-30T15:18:59.029Z
 startTime: 2022-02-02T01:13:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>

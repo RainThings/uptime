@@ -6,11 +6,11 @@ sites:
   - name: RSOS服务控制面板
     url: https://$US_SITE
   - name: HK区服
-    url: https://$HK_SERVER
+    url: http://$HK_SERVER
   - name: US区服
-    url: https://$US_SERVER
+    url: http://$US_SERVER
   - name: RU区服
-    url: https://$RU_SERVER
+    url: http://$RU_SERVER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

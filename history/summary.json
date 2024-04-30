@@ -16,7 +16,7 @@
     "timeMonth": 299,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-04-30": 905,
+      "2024-04-30": 913,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -188,12 +188,12 @@
   },
   {
     "name": "HK区服",
-    "url": "https://$HK_SERVER",
+    "url": "http://$HK_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
     "status": "down",
     "uptime": "39.21%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "0.02%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "10.81%",
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 1548,
     "dailyMinutesDown": {
-      "2024-04-30": 911,
+      "2024-04-30": 919,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -534,7 +534,7 @@
   },
   {
     "name": "US区服",
-    "url": "https://$US_SERVER",
+    "url": "http://$US_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "us",
     "status": "down",
@@ -549,7 +549,7 @@
     "timeMonth": 57,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-04-30": 905,
+      "2024-04-30": 913,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -868,7 +868,7 @@
   },
   {
     "name": "RU区服",
-    "url": "https://$RU_SERVER",
+    "url": "http://$RU_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ru",
     "status": "down",
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 1921,
     "dailyMinutesDown": {
-      "2024-04-30": 911,
+      "2024-04-30": 919,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,

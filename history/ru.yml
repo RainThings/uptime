@@ -1,7 +1,7 @@
-url: https://$RU_SERVER
+url: http://$RU_SERVER
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2024-04-29T23:16:55.882Z
+lastUpdated: 2024-04-30T15:19:00.047Z
 startTime: 2022-02-02T01:13:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
