@@ -8,15 +8,16 @@
     "uptime": "70.72%",
     "uptimeDay": "26.93%",
     "uptimeWeek": "3.85%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "54.40%",
+    "uptimeMonth": "2.27%",
+    "uptimeYear": "54.39%",
     "time": 504,
     "timeDay": 516,
     "timeWeek": 486,
-    "timeMonth": 413,
+    "timeMonth": 416,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-04-30": 1049,
+      "2024-05-01": 28,
+      "2024-04-30": 1052,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -192,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "39.23%",
-    "uptimeDay": "35.97%",
-    "uptimeWeek": "5.14%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "10.91%",
+    "uptime": "39.24%",
+    "uptimeDay": "38.10%",
+    "uptimeWeek": "5.44%",
+    "uptimeMonth": "2.63%",
+    "uptimeYear": "10.92%",
     "time": 1551,
     "timeDay": 704,
     "timeWeek": 704,
@@ -528,8 +529,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -539,14 +539,14 @@
     "slug": "us",
     "status": "up",
     "uptime": "43.08%",
-    "uptimeDay": "36.94%",
-    "uptimeWeek": "5.28%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "13.91%",
+    "uptimeDay": "39.08%",
+    "uptimeWeek": "5.58%",
+    "uptimeMonth": "2.67%",
+    "uptimeYear": "13.92%",
     "time": 212,
     "timeDay": 256,
     "timeWeek": 147,
-    "timeMonth": 72,
+    "timeMonth": 73,
     "timeYear": 87,
     "dailyMinutesDown": {
       "2024-04-30": 905,
@@ -862,8 +862,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -873,10 +872,10 @@
     "slug": "ru",
     "status": "up",
     "uptime": "53.24%",
-    "uptimeDay": "35.42%",
-    "uptimeWeek": "5.06%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "25.45%",
+    "uptimeDay": "37.56%",
+    "uptimeWeek": "5.37%",
+    "uptimeMonth": "2.62%",
+    "uptimeYear": "25.46%",
     "time": 2122,
     "timeDay": 358,
     "timeWeek": 358,
@@ -1154,8 +1153,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   }
 ]
