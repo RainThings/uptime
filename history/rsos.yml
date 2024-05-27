@@ -1,7 +1,7 @@
 url: https://$US_SITE
-status: down
-code: 502
-responseTime: 1685
-lastUpdated: 2024-05-27T19:40:33.572Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2024-05-27T19:52:32.541Z
 startTime: 2022-02-02T01:20:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
