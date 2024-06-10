@@ -6,17 +6,17 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 533,
-    "timeDay": 447,
-    "timeWeek": 452,
-    "timeMonth": 554,
+    "timeDay": 470,
+    "timeWeek": 450,
+    "timeMonth": 551,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-06-09": 48,
+      "2024-06-09": 40,
       "2024-06-08": 17,
       "2024-06-07": 35,
       "2024-06-06": 18,
@@ -42,7 +42,7 @@
       "2024-05-14": 161,
       "2024-05-13": 146,
       "2024-05-12": 125,
-      "2024-05-11": 199
+      "2024-05-11": 215
     }
   },
   {
@@ -51,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "42.05%",
+    "uptime": "42.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.81%",
-    "time": 1113,
-    "timeDay": 573,
-    "timeWeek": 599,
+    "uptimeYear": "21.87%",
+    "time": 1106,
+    "timeDay": 475,
+    "timeWeek": 574,
     "timeMonth": 603,
-    "timeYear": 1106,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2024-04-30": 919,
       "2024-04-29": 1440,
@@ -347,8 +347,7 @@
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
-      "2023-06-12": 1440,
-      "2023-06-11": 1440
+      "2023-06-12": 1440
     }
   },
   {
@@ -357,16 +356,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "us",
     "status": "up",
-    "uptime": "45.72%",
+    "uptime": "45.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.82%",
-    "time": 203,
-    "timeDay": 165,
-    "timeWeek": 925,
-    "timeMonth": 414,
-    "timeYear": 147,
+    "uptimeYear": "24.88%",
+    "time": 202,
+    "timeDay": 11,
+    "timeWeek": 876,
+    "timeMonth": 409,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2024-04-30": 905,
       "2024-04-29": 1440,
@@ -641,8 +640,7 @@
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
-      "2023-06-12": 1440,
-      "2023-06-11": 1440
+      "2023-06-12": 1440
     }
   },
   {
@@ -651,16 +649,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ru",
     "status": "up",
-    "uptime": "55.40%",
+    "uptime": "55.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "36.36%",
-    "time": 1284,
-    "timeDay": 460,
-    "timeWeek": 373,
-    "timeMonth": 374,
-    "timeYear": 553,
+    "uptimeYear": "36.42%",
+    "time": 1264,
+    "timeDay": 458,
+    "timeWeek": 388,
+    "timeMonth": 373,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2024-06-06": 19,
       "2024-04-30": 927,
@@ -894,8 +892,7 @@
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
-      "2023-06-12": 1440,
-      "2023-06-11": 1440
+      "2023-06-12": 1440
     }
   }
 ]
