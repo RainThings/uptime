@@ -6,9 +6,9 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "86.80%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "86.82%",
     "uptimeYear": "98.71%",
     "time": 532,
     "timeDay": 641,
@@ -16,7 +16,7 @@
     "timeMonth": 589,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-07-21": 129,
+      "2024-07-21": 120,
       "2024-07-20": 265,
       "2024-07-18": 57,
       "2024-07-17": 100,
@@ -48,7 +48,8 @@
       "2024-06-10": 65,
       "2024-06-09": 40,
       "2024-06-08": 17,
-      "2024-06-07": 35
+      "2024-06-07": 35,
+      "2024-06-06": 18
     }
   },
   {
@@ -57,11 +58,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hk_server.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "44.74%",
+    "uptime": "44.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "33.23%",
+    "uptimeYear": "33.24%",
     "time": 937,
     "timeDay": 635,
     "timeWeek": 604,
@@ -587,7 +588,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "60.00%",
     "uptimeMonth": "90.80%",
-    "uptimeYear": "46.02%",
+    "uptimeYear": "46.03%",
     "time": 482,
     "timeDay": 333,
     "timeWeek": 384,
@@ -792,8 +793,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   }
 ]
