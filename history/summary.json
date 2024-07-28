@@ -6,17 +6,18 @@
     "slug": "rsos",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "94.84%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "98.68%",
     "time": 537,
-    "timeDay": 594,
+    "timeDay": 589,
     "timeWeek": 593,
     "timeMonth": 579,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-07-27": 86,
+      "2024-07-28": 32,
+      "2024-07-27": 92,
       "2024-07-26": 239,
       "2024-07-25": 54,
       "2024-07-24": 33,
@@ -586,7 +587,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.80%",
-    "uptimeYear": "47.67%",
+    "uptimeYear": "47.68%",
     "time": 481,
     "timeDay": 463,
     "timeWeek": 439,
@@ -785,8 +786,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 980,
-      "2023-07-30": 862,
-      "2023-07-29": 1440
+      "2023-07-30": 862
     }
   }
 ]
