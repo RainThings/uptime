@@ -6,17 +6,17 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "93.83%",
-    "uptimeMonth": "94.72%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "98.68%",
     "time": 541,
-    "timeDay": 572,
+    "timeDay": 603,
     "timeWeek": 657,
-    "timeMonth": 608,
+    "timeMonth": 603,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-07-30": 32,
+      "2024-07-30": 20,
       "2024-07-28": 172,
       "2024-07-27": 92,
       "2024-07-26": 239,
@@ -48,7 +48,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1231,
       "2024-06-17": 163,
-      "2024-06-16": 85
+      "2024-06-16": 102
     }
   },
   {
@@ -65,7 +65,7 @@
     "time": 911,
     "timeDay": 634,
     "timeWeek": 538,
-    "timeMonth": 562,
+    "timeMonth": 566,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2024-07-18": 145,
@@ -313,8 +313,7 @@
       "2023-09-03": 1339,
       "2023-09-02": 1440,
       "2023-09-01": 1404,
-      "2023-08-08": 196,
-      "2023-08-01": 58
+      "2023-08-08": 196
     }
   },
   {
@@ -331,7 +330,7 @@
     "time": 177,
     "timeDay": 357,
     "timeWeek": 307,
-    "timeMonth": 259,
+    "timeMonth": 262,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2024-04-30": 905,
@@ -591,7 +590,7 @@
     "time": 476,
     "timeDay": 324,
     "timeWeek": 398,
-    "timeMonth": 404,
+    "timeMonth": 402,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2024-07-18": 145,
