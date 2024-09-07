@@ -4,16 +4,16 @@
     "url": "https://$US_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/$us_site.ico",
     "slug": "rsos",
-    "status": "up",
+    "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "83.16%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "83.35%",
     "uptimeMonth": "28.99%",
     "uptimeYear": "93.68%",
     "time": 590,
-    "timeDay": 965,
-    "timeWeek": 1160,
-    "timeMonth": 1095,
+    "timeDay": 967,
+    "timeWeek": 1147,
+    "timeMonth": 1091,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2024-09-07": 91,
@@ -69,7 +69,7 @@
       "2024-07-15": 42,
       "2024-07-14": 85,
       "2024-07-13": 131,
-      "2024-07-12": 71
+      "2024-07-12": 49
     }
   },
   {
@@ -82,7 +82,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "35.17%",
+    "uptimeYear": "35.18%",
     "time": 844,
     "timeDay": 614,
     "timeWeek": 615,
@@ -591,7 +591,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ru_server.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "55.71%",
+    "uptime": "55.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -602,7 +602,7 @@
     "timeMonth": 333,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2024-09-07": 566,
+      "2024-09-07": 584,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
