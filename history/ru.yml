@@ -1,7 +1,7 @@
 url: http://$RU_SERVER
 status: down
-code: 404
-responseTime: 367
-lastUpdated: 2024-09-22T23:21:23.228Z
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-23T23:20:02.494Z
 startTime: 2022-02-02T01:13:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
