@@ -8,12 +8,12 @@
     "uptime": "97.58%",
     "uptimeDay": "94.71%",
     "uptimeWeek": "98.27%",
-    "uptimeMonth": "78.67%",
+    "uptimeMonth": "78.90%",
     "uptimeYear": "93.57%",
-    "time": 596,
-    "timeDay": 567,
-    "timeWeek": 756,
-    "timeMonth": 933,
+    "time": 595,
+    "timeDay": 550,
+    "timeWeek": 748,
+    "timeMonth": 921,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2024-09-26": 77,
@@ -84,11 +84,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.53%",
-    "time": 816,
-    "timeDay": 681,
-    "timeWeek": 622,
-    "timeMonth": 602,
+    "uptimeYear": "40.55%",
+    "time": 815,
+    "timeDay": 527,
+    "timeWeek": 607,
+    "timeMonth": 598,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2024-08-10": 64,
@@ -310,8 +310,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -324,11 +323,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.78%",
+    "uptimeYear": "40.80%",
     "time": 200,
-    "timeDay": 362,
-    "timeWeek": 270,
-    "timeMonth": 302,
+    "timeDay": 219,
+    "timeWeek": 252,
+    "timeMonth": 296,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2024-04-30": 905,
@@ -545,8 +544,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -559,14 +557,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.70%",
+    "uptimeYear": "33.68%",
     "time": 458,
     "timeDay": 0,
-    "timeWeek": 402,
+    "timeWeek": 422,
     "timeMonth": 381,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-09-26": 1369,
+      "2024-09-27": 33,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
