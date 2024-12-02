@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "96.09%",
-    "uptimeWeek": "96.16%",
+    "uptimeWeek": "96.51%",
     "uptimeMonth": "69.22%",
     "uptimeYear": "97.25%",
     "time": 633,
-    "timeDay": 693,
-    "timeWeek": 573,
-    "timeMonth": 767,
+    "timeDay": 659,
+    "timeWeek": 580,
+    "timeMonth": 780,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-12-01": 56,
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hk_server.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "51.83%",
+    "uptime": "51.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.52%",
-    "time": 671,
-    "timeDay": 717,
-    "timeWeek": 656,
-    "timeMonth": 606,
+    "uptimeYear": "58.59%",
+    "time": 668,
+    "timeDay": 599,
+    "timeWeek": 650,
+    "timeMonth": 605,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2024-10-21": 91,
@@ -231,8 +231,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -241,16 +240,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$us_server.ico",
     "slug": "us",
     "status": "up",
-    "uptime": "54.91%",
+    "uptime": "54.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.67%",
-    "time": 207,
-    "timeDay": 396,
-    "timeWeek": 365,
+    "uptimeYear": "58.74%",
+    "time": 208,
+    "timeDay": 383,
+    "timeWeek": 370,
     "timeMonth": 317,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2024-04-30": 905,
       "2024-04-29": 1440,
@@ -400,8 +399,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -410,18 +408,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ru_server.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "51.18%",
+    "uptime": "51.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.58%",
+    "uptimeWeek": "5.08%",
     "uptimeMonth": "3.81%",
     "uptimeYear": "25.31%",
     "time": 398,
-    "timeDay": 344,
-    "timeWeek": 418,
-    "timeMonth": 401,
+    "timeDay": 384,
+    "timeWeek": 378,
+    "timeMonth": 403,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-12-01": 1126,
+      "2024-12-02": 39,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -695,8 +694,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   }
 ]
