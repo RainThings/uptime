@@ -6,17 +6,17 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "69.27%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "69.31%",
     "uptimeYear": "97.26%",
     "time": 633,
-    "timeDay": 571,
-    "timeWeek": 582,
-    "timeMonth": 728,
-    "timeYear": 633,
+    "timeDay": 586,
+    "timeWeek": 583,
+    "timeMonth": 732,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-12-02": 29,
+      "2024-12-02": 16,
       "2024-12-01": 56,
       "2024-11-29": 56,
       "2024-11-28": 47,
@@ -57,7 +57,7 @@
       "2024-10-11": 15,
       "2024-10-10": 22,
       "2024-10-08": 72,
-      "2024-10-07": 34
+      "2024-10-07": 55
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.83%",
-    "time": 668,
-    "timeDay": 599,
-    "timeWeek": 650,
-    "timeMonth": 605,
+    "uptimeYear": "58.86%",
+    "time": 664,
+    "timeDay": 725,
+    "timeWeek": 661,
+    "timeMonth": 610,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2024-10-21": 91,
@@ -231,8 +231,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -245,11 +244,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.98%",
-    "time": 208,
-    "timeDay": 383,
-    "timeWeek": 370,
-    "timeMonth": 317,
+    "uptimeYear": "59.01%",
+    "time": 209,
+    "timeDay": 429,
+    "timeWeek": 381,
+    "timeMonth": 321,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2024-04-30": 905,
@@ -399,8 +398,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -409,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ru_server.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "51.12%",
+    "uptime": "51.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "3.81%",
     "uptimeYear": "25.31%",
     "time": 398,
-    "timeDay": 384,
-    "timeWeek": 352,
-    "timeMonth": 403,
+    "timeDay": 338,
+    "timeWeek": 353,
+    "timeMonth": 402,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-12-02": 1329,
+      "2024-12-03": 38,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -694,8 +693,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   }
 ]
