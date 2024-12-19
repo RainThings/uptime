@@ -8,12 +8,12 @@
     "uptime": "99.02%",
     "uptimeDay": "86.36%",
     "uptimeWeek": "93.51%",
-    "uptimeMonth": "87.19%",
+    "uptimeMonth": "88.41%",
     "uptimeYear": "97.18%",
     "time": 631,
-    "timeDay": 717,
-    "timeWeek": 729,
-    "timeMonth": 626,
+    "timeDay": 892,
+    "timeWeek": 677,
+    "timeMonth": 614,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-12-18": 197,
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hk_server.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "52.61%",
+    "uptime": "52.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.14%",
-    "time": 606,
-    "timeDay": 822,
-    "timeWeek": 603,
-    "timeMonth": 637,
-    "timeYear": 596,
+    "uptimeYear": "63.25%",
+    "time": 604,
+    "timeDay": 663,
+    "timeWeek": 628,
+    "timeMonth": 638,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2024-10-21": 91,
       "2024-10-19": 141,
@@ -215,8 +215,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   },
   {
@@ -225,16 +224,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$us_server.ico",
     "slug": "us",
     "status": "up",
-    "uptime": "55.35%",
+    "uptime": "55.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "57.55%",
     "uptimeMonth": "90.23%",
-    "uptimeYear": "62.48%",
-    "time": 216,
-    "timeDay": 296,
-    "timeWeek": 298,
+    "uptimeYear": "62.58%",
+    "time": 217,
+    "timeDay": 373,
+    "timeWeek": 319,
     "timeMonth": 393,
-    "timeYear": 220,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-12-16": 574,
       "2024-12-15": 1440,
@@ -371,8 +370,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   },
   {
@@ -381,18 +379,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ru_server.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "50.35%",
+    "uptime": "50.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "3.81%",
     "uptimeYear": "25.31%",
-    "time": 396,
-    "timeDay": 373,
-    "timeWeek": 390,
-    "timeMonth": 395,
-    "timeYear": 387,
+    "time": 395,
+    "timeDay": 332,
+    "timeWeek": 373,
+    "timeMonth": 394,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2024-12-18": 939,
+      "2024-12-19": 36,
+      "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
@@ -666,8 +665,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   }
 ]
