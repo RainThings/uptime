@@ -4,16 +4,16 @@
     "url": "https://$US_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/$us_site.ico",
     "slug": "rsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "94.70%",
     "uptimeWeek": "94.53%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "97.22%",
     "time": 621,
-    "timeDay": 401,
-    "timeWeek": 380,
-    "timeMonth": 528,
+    "timeDay": 395,
+    "timeWeek": 378,
+    "timeMonth": 527,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2024-12-28": 77,
@@ -59,8 +59,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1315,
       "2024-11-12": 38,
-      "2024-11-11": 17,
-      "2024-11-10": 16
+      "2024-11-11": 17
     }
   },
   {
@@ -73,7 +72,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.91%",
+    "uptimeYear": "65.92%",
     "time": 610,
     "timeDay": 378,
     "timeWeek": 1075,
@@ -222,7 +221,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.23%",
-    "uptimeYear": "65.25%",
+    "uptimeYear": "65.26%",
     "time": 216,
     "timeDay": 108,
     "timeWeek": 160,
@@ -375,7 +374,7 @@
     "timeMonth": 379,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-12-28": 1098,
+      "2024-12-28": 1143,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
