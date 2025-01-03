@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "84.90%",
-    "uptimeWeek": "93.65%",
+    "uptimeWeek": "94.19%",
     "uptimeMonth": "94.17%",
     "uptimeYear": "99.45%",
     "time": 621,
-    "timeDay": 575,
-    "timeWeek": 529,
-    "timeMonth": 536,
+    "timeDay": 572,
+    "timeWeek": 547,
+    "timeMonth": 535,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2025-01-02": 218,
@@ -58,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hk_server.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "53.28%",
+    "uptime": "53.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.29%",
+    "uptimeYear": "67.36%",
     "time": 608,
-    "timeDay": 568,
-    "timeWeek": 495,
-    "timeMonth": 708,
+    "timeDay": 539,
+    "timeWeek": 498,
+    "timeMonth": 702,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2024-10-21": 91,
@@ -192,8 +192,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -202,16 +201,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$us_server.ico",
     "slug": "us",
     "status": "up",
-    "uptime": "55.98%",
+    "uptime": "55.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.23%",
-    "uptimeYear": "66.62%",
+    "uptimeYear": "66.69%",
     "time": 215,
-    "timeDay": 305,
-    "timeWeek": 184,
-    "timeMonth": 322,
-    "timeYear": 228,
+    "timeDay": 321,
+    "timeWeek": 225,
+    "timeMonth": 318,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2024-12-16": 574,
       "2024-12-15": 1440,
@@ -333,8 +332,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -343,18 +341,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ru_server.ico",
     "slug": "ru",
     "status": "down",
-    "uptime": "49.64%",
+    "uptime": "49.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.31%",
-    "time": 395,
-    "timeDay": 455,
-    "timeWeek": 389,
-    "timeMonth": 381,
+    "time": 396,
+    "timeDay": 454,
+    "timeWeek": 385,
+    "timeMonth": 384,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-01-02": 1117,
+      "2025-01-03": 34,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -628,8 +627,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   }
 ]
