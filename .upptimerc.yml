@@ -9,8 +9,7 @@ sites:
     url: http://$HK_SERVER
   - name: US区服
     url: http://$US_SERVER
-  - name: RU区服
-    url: http://$RU_SERVER
+  - name: RU区服——此区域已不再服务
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
