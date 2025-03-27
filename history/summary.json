@@ -6,13 +6,13 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "35.89%",
-    "uptimeWeek": "46.41%",
+    "uptimeDay": "38.83%",
+    "uptimeWeek": "46.78%",
     "uptimeMonth": "87.38%",
     "uptimeYear": "98.95%",
     "time": 597,
     "timeDay": 420,
-    "timeWeek": 525,
+    "timeWeek": 526,
     "timeMonth": 602,
     "timeYear": 602,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "90.03%",
+    "uptimeYear": "90.04%",
     "time": 647,
     "timeDay": 417,
     "timeWeek": 486,
@@ -86,8 +86,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -100,7 +99,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "89.69%",
+    "uptimeYear": "89.70%",
     "time": 209,
     "timeDay": 325,
     "timeWeek": 220,
@@ -145,8 +144,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   }
 ]
