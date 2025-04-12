@@ -6,15 +6,15 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "81.98%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "82.44%",
     "uptimeMonth": "91.25%",
     "uptimeYear": "99.27%",
     "time": 595,
-    "timeDay": 2985,
-    "timeWeek": 726,
-    "timeMonth": 560,
-    "timeYear": 601,
+    "timeDay": 3670,
+    "timeWeek": 753,
+    "timeMonth": 565,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-04-11": 65,
       "2025-04-10": 198,
@@ -40,10 +40,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.39%",
+    "uptimeYear": "94.42%",
     "time": 642,
-    "timeDay": 664,
-    "timeWeek": 574,
+    "timeDay": 644,
+    "timeWeek": 599,
     "timeMonth": 513,
     "timeYear": 642,
     "dailyMinutesDown": {
@@ -74,8 +74,7 @@
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
-      "2024-04-13": 1440,
-      "2024-04-12": 1440
+      "2024-04-13": 1440
     }
   },
   {
@@ -88,12 +87,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.06%",
-    "time": 215,
-    "timeDay": 357,
-    "timeWeek": 409,
-    "timeMonth": 251,
-    "timeYear": 273,
+    "uptimeYear": "94.09%",
+    "time": 216,
+    "timeDay": 353,
+    "timeWeek": 407,
+    "timeMonth": 249,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-02-28": 20,
       "2024-12-16": 574,
@@ -117,8 +116,7 @@
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
-      "2024-04-13": 1440,
-      "2024-04-12": 1440
+      "2024-04-13": 1440
     }
   }
 ]
