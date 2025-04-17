@@ -4,19 +4,20 @@
     "url": "https://$US_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/$us_site.ico",
     "slug": "rsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "44.98%",
-    "uptimeWeek": "63.61%",
-    "uptimeMonth": "88.08%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "42.10%",
+    "uptimeWeek": "63.20%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "99.00%",
     "time": 603,
-    "timeDay": 528,
-    "timeWeek": 1068,
-    "timeMonth": 601,
+    "timeDay": 517,
+    "timeWeek": 1067,
+    "timeMonth": 600,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-04-16": 795,
+      "2025-04-17": 38,
+      "2025-04-16": 799,
       "2025-04-15": 146,
       "2025-04-14": 337,
       "2025-04-13": 1199,
@@ -41,7 +42,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.78%",
+    "uptimeYear": "95.79%",
     "time": 640,
     "timeDay": 652,
     "timeWeek": 545,
@@ -70,8 +71,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   },
   {
@@ -84,7 +84,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.45%",
+    "uptimeYear": "95.46%",
     "time": 217,
     "timeDay": 188,
     "timeWeek": 235,
@@ -108,8 +108,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   }
 ]
