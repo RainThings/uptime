@@ -7,12 +7,12 @@
     "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "60.52%",
-    "uptimeWeek": "50.85%",
-    "uptimeMonth": "83.05%",
-    "uptimeYear": "98.59%",
+    "uptimeWeek": "51.10%",
+    "uptimeMonth": "83.18%",
+    "uptimeYear": "98.60%",
     "time": 592,
-    "timeDay": 405,
-    "timeWeek": 449,
+    "timeDay": 410,
+    "timeWeek": 451,
     "timeMonth": 471,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
       "2025-05-07": 1046,
       "2025-05-06": 1158,
       "2025-05-05": 1201,
-      "2025-05-04": 953
+      "2025-05-04": 899
     }
   },
   {
