@@ -6,13 +6,13 @@
     "slug": "rsos",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "37.54%",
+    "uptimeDay": "38.75%",
     "uptimeWeek": "62.87%",
-    "uptimeMonth": "89.66%",
-    "uptimeYear": "99.14%",
+    "uptimeMonth": "89.92%",
+    "uptimeYear": "99.16%",
     "time": 589,
     "timeDay": 507,
-    "timeWeek": 559,
+    "timeWeek": 560,
     "timeMonth": 536,
     "timeYear": 590,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
       "2025-06-28": 212,
       "2025-06-27": 166,
       "2025-06-26": 223,
-      "2025-06-25": 260
+      "2025-06-25": 142
     }
   },
   {
